@@ -63,6 +63,12 @@
     padding-left: 120px;
 }
 
+.img-tamaño {
+    display: inline-block; 
+    height: 10px; 
+    width: 10px;
+}
+
 .navbar-light .navbar-nav .nav-link {
     font-family: 'Roboto', sans-serif;
     position: relative;
